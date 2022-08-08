@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Novid\bin\Debug\Novid.exe.config
+C:\Users\ASUS\source\repos\Novid\bin\Debug\Novid.exe
+C:\Users\ASUS\source\repos\Novid\bin\Debug\Novid.pdb
+C:\Users\ASUS\source\repos\Novid\obj\Debug\Novid.Form1.resources
+C:\Users\ASUS\source\repos\Novid\obj\Debug\Novid.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Novid\obj\Debug\Novid.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Novid\obj\Debug\Novid.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Novid\obj\Debug\Novid.exe
+C:\Users\ASUS\source\repos\Novid\obj\Debug\Novid.pdb
+C:\Users\ASUS\source\repos\Novid\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\ASUS\source\repos\Novid\obj\Debug\Novid.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Novid\bin\Debug\Json.Net.dll
+C:\Users\ASUS\source\repos\Novid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\Novid\bin\Debug\Newtonsoft.Json.xml

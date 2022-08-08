@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Novid", "Novid.csproj", "{675F577D-C300-4FCB-AE9E-90F5440FC4A0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Novid19", "..\Novid19\Novid19.vdproj", "{F3FDF49D-D5B3-4D10-9E4F-0E5F4046A64D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{675F577D-C300-4FCB-AE9E-90F5440FC4A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{675F577D-C300-4FCB-AE9E-90F5440FC4A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{675F577D-C300-4FCB-AE9E-90F5440FC4A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{675F577D-C300-4FCB-AE9E-90F5440FC4A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3FDF49D-D5B3-4D10-9E4F-0E5F4046A64D}.Debug|Any CPU.ActiveCfg = Debug
+		{F3FDF49D-D5B3-4D10-9E4F-0E5F4046A64D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4871188-A7FC-47E1-BF25-DBD537C32245}
+	EndGlobalSection
+EndGlobal
